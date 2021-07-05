@@ -1,0 +1,16 @@
+{
+  "name": "vip-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avip Syaifulloh",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
